@@ -1,3 +1,3 @@
 # SingleCV
 Really starting from the basics. Using plain HTML.
-https://singlecv.pages.dev/
+http://127.0.0.1:5500/index.html
